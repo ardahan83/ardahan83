@@ -51,6 +51,7 @@ src="https://img.shields.io/twitch/status/ardahan83?logo=twitchsx&style=for-the-
 (https://www.tiktok.com/@.arda._)
 
 [<img  alt="twitter" src="https://img.shields.io/badge/TWITTER-ardamentesoglu-red?style=for-the-badge&logo=twitter" />](https://twitter.com/ArdaMentesoglu_)
+
 ### Badges
 
 <a href="https://github.com/ardamentesoglu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardamentesoglu&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
