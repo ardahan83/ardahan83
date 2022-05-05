@@ -45,7 +45,9 @@ src="https://img.shields.io/twitch/status/ardahan83?logo=twitchsx&style=for-the-
 <p align="left"> <a href="https://discord.com/users/!Arda#3054" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ardamentesoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/ardamentesoglu" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ArdaMentesoglu_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/ardahan83" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 [<img  alt="discord" src="https://img.shields.io/badge/DISCORD-ardamentesoglu-red?style=for-the-badge&logo=discord"/>](https://discord.com/users/!Arda#3054)
 
-[<img  alt="tiktok" src="https://img.shields.io/badge/T%C4%B0KTOK-ardamentesoglu-red?style=for-the-badge&logo=tiktok" />](https://www.tiktok.com/@.arda._)
+[<img  alt="tiktok" src="https://img.shields.io/badge/T%C4%B0KTOK-ardamentesoglu-red?style=for-the-badge&logo=tiktok" />]
+
+(https://www.tiktok.com/@.arda._)
 
 [<img  alt="twitter" src="https://img.shields.io/badge/TWITTER-ardamentesoglu-red?style=for-the-badge&logo=twitter" />](https://twitter.com/ArdaMentesoglu_)
 ### Badges
