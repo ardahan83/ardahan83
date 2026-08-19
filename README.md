@@ -21,7 +21,7 @@ Web developer and Discord.js
 ----------------------------
 
 * 🌍  I'm based in Samsun
-* ✉️  You can contact me at [aaardahan83@gmail.com](mailto:aaardahan83@gmail.com)
+* ✉️  You can contact me at [mail@ardamentesoglu.tr](mailto:mail@ardamentesoglu.tr) / [info@deskify.tr](mailto:info@deskify.tr)
 * 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on Discord bots and JavaScript
 
