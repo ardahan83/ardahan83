@@ -24,8 +24,7 @@ Web developer and Discord.js
 * ✉️  You can contact me at [mail@ardamentesoglu.tr](mailto:mail@ardamentesoglu.tr) / [info@deskify.tr](mailto:info@deskify.tr)
 * 🧠  I'm learning Cyber Securty
 
-<a href="https://www.twitch.tv/ardahan83" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/ardahan83?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
+
 ### Skills
 
 <p align="left">
@@ -36,7 +35,6 @@ src="https://img.shields.io/twitch/status/ardahan83?logo=twitchsx&style=for-the-
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 <a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
 </p>
 
 ### Socials
