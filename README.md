@@ -23,7 +23,6 @@ Web developer and Discord.js
 * 🌍  I'm based in Samsun
 * ✉️  You can contact me at [mail@ardamentesoglu.tr](mailto:mail@ardamentesoglu.tr) / [info@deskify.tr](mailto:info@deskify.tr)
 * 🧠  I'm learning Cyber Securty
-* 🤝  I'm open to collaborating on Discord bots and JavaScript
 
 <a href="https://www.twitch.tv/ardahan83" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitch/status/ardahan83?logo=twitchsx&style=for-the-badge&color=0891b2&labelColor=1c1917&label=TWITCH+STATUS" /></a>
